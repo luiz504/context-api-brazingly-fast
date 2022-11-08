@@ -1,6 +1,4 @@
-# React Tailwindcss Boilerplate build with Vite
-
-This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
+# React 18 Experiments
 
 ## What is inside?
 
@@ -14,6 +12,7 @@ This project uses many tools like:
 - [Tailwindcss](https://tailwindcss.com)
 - [Eslint](https://eslint.org)
 - [Prettier](https://prettier.io)
+- [Husky](https://github.com/typicode/husky)
 
 ## Getting Started
 
@@ -52,6 +51,13 @@ yarn run build
 ```bash
 yarn run test
 ```
+
+### Recomended VsCode(players) Plugins
+
+- postCSS Language Support
+- Eslint
+- Prettier - Code formatter
+- Tailwind Css IntelliSende
 
 ## License
 

@@ -1,6 +1,6 @@
 {
-  "name": "reactjs-vite-tailwindcss-boilerplate",
-  "description": "React Context API Blazingly Fast",
+  "name": "react-18-experiments",
+  "description": "React 18 Experiments",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,13 +23,15 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-react": "^7.18.6",
     "@babel/preset-typescript": "^7.18.6",
+    "@nabla/vite-plugin-eslint": "^1.4.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@types/jest": "^29.2.2",
@@ -54,6 +56,7 @@
     "tailwindcss": "^3.2.2",
     "typescript": "^4.8.4",
     "vite": "^3.2.2",
-    "vite-tsconfig-paths": "^3.5.2"
+    "vite-tsconfig-paths": "^3.5.2",
+    "tailwind-styled-components": "^2.2.0"
   }
 }
